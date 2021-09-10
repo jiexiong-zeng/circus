@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 I'm a circus.Duck
 Quack Quack
 I'm a parrot
+=======
+I'm Drake. I am a Duck!
+I'm Drake. I am a Duck!  Quack Quack
+My name is Polly. I am a Parrot!
+>>>>>>> upstream/master
 Polly wants a cracker
+Adding item value: 10
+Adding item value: 20
+Total value of animals 30
 Adding item value: 25
 Ignoring low value item: 1
 Adding item value: 33
